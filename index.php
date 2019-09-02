@@ -246,9 +246,6 @@
                         </li>				    
                          <li data-placement="left" data-toggle="tooltip" title="Trankery has impersonated Skynode.pro, Server.pro, and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
-                        </li>			
-                         <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software, and heck, he even managed to get banned from leak sites for releaking. This scum knows no limit.">
-                            <a href="http://falixnodes.host">FalixNodes.host</a>
                         </li>	
                         <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically telling people to open a dispute if they want their money back. This infamous lunatic also begged people to send him money and claimed that he was not scamming because they can open a charge back via PayPal. Even worse, upon getting a dispute, this sad joke took it to DM and called his victims 'fucking ass wipe'. ">
                             <a href="https://leetvpn.xyz">LeetVPN.xyz</a>			    
@@ -316,6 +313,9 @@
                         <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
                             <a href="https://enteron.world">Enteron.world</a>
                         </li>
+			<li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software, and heck, he even managed to get banned from leak sites for releaking. This scum knows no limit.">
+                            <a href="http://falixnodes.host">FalixNodes.host</a>
+		        </li>
                         <li data-placement="left" data-toggle="tooltip" title="A failure, a scam, a meme that had long overstayed its welcome - Fortress Host was all of these things. Favorite practices included: exploiting free hardware, promising false promises, and offering 'alternative' refunds.">
                             <a href="https://fortress.host">Fortress.host</a>
                         </li>
